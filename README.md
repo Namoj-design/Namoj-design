@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **RailChains**
 
-- 🌱 I’m currently learning **PQC**
-
-- 👯 I’m looking to collaborate on **DeCentralShop**
+- 🌱 I’m currently learning **Cryptography & PQC**
 
 - 📫 How to reach me **namojperiakumar@gmail.com**
 
